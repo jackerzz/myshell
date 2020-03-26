@@ -41,6 +41,8 @@
 * Install Redis   安装Redis2.8.7版本
 * NFS-Server   安装NFS服务器
 * NFS-Client   安装NFS终端
-
+* vpn 一键部署优化
+* ELK 架构一键部署
+* 。。。。。。。。。。。。
 ## 3. 操作说明
 输入相应的序号即可执行操作。
